@@ -44,7 +44,10 @@ bfs(visited,graph,"3")
 
 
 ### Output:
-
+3
+2
+4
+8
 
 
 ### Result:

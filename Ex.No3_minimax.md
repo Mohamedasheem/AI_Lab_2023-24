@@ -1,6 +1,6 @@
 # Ex.No: 3  Implementation of Minimax Search
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:  26/08/2025                                                                          
+### REGISTER NUMBER : 212223060160
 ### AIM: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Algorithm:
@@ -81,6 +81,9 @@ if __name__ == "__main__":
 
 
 ### Output:
+
+<img width="483" height="162" alt="image" src="https://github.com/user-attachments/assets/6b0b6f08-f4a2-41c2-9ebd-8749eabf0b55" />
+
 
 
 

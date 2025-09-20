@@ -32,6 +32,8 @@ move(N,X,Y,Z) :-
 
 
 ### Output:
+<img width="914" height="243" alt="image" src="https://github.com/user-attachments/assets/2ccfed6d-9fe9-497d-9997-98c4c25c57f3" />
+
 
 
 

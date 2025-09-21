@@ -50,6 +50,8 @@ halfsubtractor(A, B, Difference, Borrow):-
 
 
 ### Output:
+<img width="922" height="105" alt="image" src="https://github.com/user-attachments/assets/87d48e94-8450-44dd-b11c-2841395d75b9" />
+
 
 
 

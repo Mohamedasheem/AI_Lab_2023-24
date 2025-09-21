@@ -51,6 +51,8 @@ problem(blank_display).
 
 
 ### Output:
+<img width="917" height="73" alt="image" src="https://github.com/user-attachments/assets/2f2f4ab9-9b71-4fd8-9263-9c3349ef5c3f" />
+
 
 
 

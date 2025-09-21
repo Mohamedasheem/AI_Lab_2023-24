@@ -42,6 +42,12 @@ Consider the following facts and represent them in predicate form: <br>
 Convert the facts in predicate form to clauses and then prove by resolution: “Steve likes BK301 course”<br> 
 
 ### Program:
+```
+like(steve,X):-easycourse(X).
+hard(sciencecourse).
+easycourse(X):-course(X,fundept).
+course(bk301,fundept).
+```
 
 
 ### Output:

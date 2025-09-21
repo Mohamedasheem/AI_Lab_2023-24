@@ -53,6 +53,8 @@ course(bk301,fundept).
 
 
 ### Output:
+<img width="920" height="71" alt="image" src="https://github.com/user-attachments/assets/1551b250-b638-4a19-8e65-7bff3b0242d5" />
+
 
 ### Task 3:
 Consider the statement <br> 

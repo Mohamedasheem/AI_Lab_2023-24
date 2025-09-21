@@ -1,6 +1,6 @@
 # Ex.No: 10  Logic Programming –  Simple queries from facts and rules
-### DATE:   20/09/2025                                                                         
-### REGISTER NUMBER :212223060160 
+### DATE: 06/09/2025                                                                         
+### REGISTER NUMBER : 212223060160
 ### AIM: 
 To write a prolog program to find the answer of query. 
 ###  Algorithm:
@@ -21,6 +21,7 @@ Construct the FOL representation for the following sentences <br>
 5.	 Bill eats peanuts  <br> 
    Convert into clause form and Prove that John like Apple by using Prolog. <br> 
 ### Program:
+
 ```
 likes(john,X):-food(X).
 food(apple).
@@ -32,7 +33,9 @@ eats(bill,peanuts).
 
 
 ### Output:
-<img width="920" height="69" alt="image" src="https://github.com/user-attachments/assets/c5cbc210-e37e-4859-8dc4-1f6b5e13de38" />
+
+<img width="920" height="69" alt="image" src="https://github.com/user-attachments/assets/9f607965-f30b-4ce7-b67f-5afdfc61d916" />
+
 
 
 ### Task 2:
@@ -53,7 +56,7 @@ course(bk301,fundept).
 
 
 ### Output:
-<img width="920" height="71" alt="image" src="https://github.com/user-attachments/assets/1551b250-b638-4a19-8e65-7bff3b0242d5" />
+<img width="920" height="71" alt="image" src="https://github.com/user-attachments/assets/29f5ca87-ab48-41db-8c6a-932238ce7b31" />
 
 
 ### Task 3:
@@ -61,9 +64,21 @@ Consider the statement <br>
 “This is a crime for an American to sell weapons to hostile nations. The Nano , enemy of America has some missiles and its missiles were sold it by Colonal West who is an American” <br> 
 Convert to Clause form and prove west is criminal by using Prolog.<br> 
 ### Program:
+```
+crime(X):-american(X),weapon(Y),sells(X,Y,Z),hostile(X,Z).
+hostile(X,Z):-enemy(Z,X).
+enemy(nano,west).
+american(west).
+weapon(Y):-missile(Y).
+missile(m1).
+owns(nano,m1).
+sells(west,Y,nano):-owns(nano,Y),missile(Y).
+```
 
 
 ### Output:
+<img width="924" height="84" alt="image" src="https://github.com/user-attachments/assets/53a70a29-f8b8-475a-aed1-affee561c3d4" />
+
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.

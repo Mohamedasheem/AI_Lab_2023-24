@@ -58,6 +58,8 @@ symptom(prasanna,sore_throat).
 
 
 ### Output:
+<img width="917" height="98" alt="image" src="https://github.com/user-attachments/assets/1c4b1d15-8087-4527-b512-1e77914084ea" />
+
 
 
 

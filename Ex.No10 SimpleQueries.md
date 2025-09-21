@@ -32,6 +32,8 @@ eats(bill,peanuts).
 
 
 ### Output:
+<img width="920" height="69" alt="image" src="https://github.com/user-attachments/assets/c5cbc210-e37e-4859-8dc4-1f6b5e13de38" />
+
 
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              

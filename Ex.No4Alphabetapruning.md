@@ -62,6 +62,8 @@ print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 
 
 ### Output:
+<img width="452" height="173" alt="image" src="https://github.com/user-attachments/assets/7a42bb73-b2b3-43ea-a5d0-233e45418939" />
+
 
 
 

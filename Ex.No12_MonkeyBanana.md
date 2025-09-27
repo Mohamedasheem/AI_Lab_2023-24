@@ -92,6 +92,9 @@ Step 7: Stop the program.<br>
 
 ### Output/Plan:
 
+<img width="609" height="541" alt="image" src="https://github.com/user-attachments/assets/69c8a615-abe4-4eb4-a6fe-f0a393a54032" />
+
+
 
 
 
